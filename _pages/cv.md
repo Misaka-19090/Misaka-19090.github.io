@@ -7,6 +7,13 @@ redirect_from:
   - /resume
 ---
 
+<style>
+    code {
+        font-style: italic;
+        float: right;
+    }
+</style>
+
 {% include base_path %}
 
 ## Education
