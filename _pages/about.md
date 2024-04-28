@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to Cong Tao's Personal Website
-
 ## About me
 
 I am a PhD candidate at University of Technology Sydney.
