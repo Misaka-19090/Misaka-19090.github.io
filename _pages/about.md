@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Cong Tao's Personal Website"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
