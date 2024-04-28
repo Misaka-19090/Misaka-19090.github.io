@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-{% site.colloections %}
-
 ## About me
 
 I am a PhD candidate at University of Technology Sydney.
