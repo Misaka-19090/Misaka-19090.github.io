@@ -23,6 +23,15 @@ redirect_from:
 - __Shanghai Jiao Tong University__ `2019`
   - B.S. in Economics
 
+## Research Intetests
+- Auction Theory
+- Behavioural and Experimental Economics
+
+## Research
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 ## Work Experience
 - __Behavioural Lab Manager__`2023`
   - University of Technology Sydney
@@ -36,12 +45,6 @@ redirect_from:
     - Mathematics for Business and Economics
     - Game Theory
     - Business Statistics
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 <!--
 Talks
