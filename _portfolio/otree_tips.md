@@ -4,7 +4,7 @@ excerpt: "Technical suggestions that may be helpful when programming your oTree 
 collection: portfolio
 ---
 
-## The frontend (HTML, CSS, JavaScript)
+## The Frontend (HTML, CSS, JavaScript)
 
 1. __General advice for constructing and organising webpages.__
     - Adopt an existent framework to simplify the development of informative webpages, for example, [Bootstrap](https://getbootstrap.com/).
@@ -88,7 +88,7 @@ collection: portfolio
                         player_id: data_response
                     }
         ```
-1. Control the randomisation level.
+1. __Control the randomisation level.__
     - You can control the randomisation level of your app by setting different seeds with `random.seed()`, in case you want the randomisation result being the same within each session, each round, or each participant. This is especially useful when you do not want current randomisation features displayed on the participant screen being changed after page refresh. Here are some examples on seeds commonly used in practice:
         - `session.code` for session level randomisation 
         - `round_number` for subsession/round level randomisation
