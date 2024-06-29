@@ -72,7 +72,9 @@ collection: portfolio
     - The `liveSend()` and `liveRecv()` functions are oTree built-in features, you cannot change their names or use other functions to replace it.
     - You cannot start the communication from the backend (the most common case is that you want to initialise the page by sending configuration data to it). Alternatively, you can send a special message from the frontend on page load, then process this special indicator in the backend and response with initialisation data to the frontend:
         ```js
-        liveSend({ "type": "init" })
+        document.addEventListener("DOMContentLoaded", (event) => {
+            liveSend({ "type": "init" });
+        });
         ```
         ```python
         class myLivePage(Page):
@@ -86,3 +88,9 @@ collection: portfolio
                         player_id: data_response
                     }
         ```
+1. Control the randomisation level.
+    - You can control the randomisation level of your app by setting different seeds with `random.seed()`, in case you want the randomisation result being the same within each session, each round, or each participant. This is especially useful when you do not want current randomisation features displayed on the participant screen being changed after page refresh. Here are some examples on seeds commonly used in practice:
+        - `session.code` for session level randomisation 
+        - `round_number` for subsession/round level randomisation
+        - `participant.code` for participant level randomisation
+    - You should be careful when using `group.id` or `player.id` as controls, because there can be duplicate IDs across rounds or groups. If you do not want the same randomisation result in all rounds or in all groups, use the concatenated string `round_number + group.id` or `round_number + group.id + player.id` instead.
