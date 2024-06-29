@@ -10,15 +10,15 @@ collection: portfolio
     - Adopt an existent framework to simplify the development of informative webpages, for example, [Bootstrap](https://getbootstrap.com/).
     - Alternatively, if you do need to modify some webpage elements: 
         - Avoid writing the styles directly inside the element tag like this:
-            ```css
+            ```html
             <element style="..."></element>
             ```
         - Instead, assign a class name for each style and manage the styles uniformly in CSS files under the folder `./static/`. When you are going to apply the styles on certain page element, first link the style sheet in the page head:
-            ```css
+            ```html
             <link rel="stylesheet" type="text/css" href="{{ static 'myStyle.css' }}" />
             ```
             Then simply specifying the class name in the element tag:
-            ```css
+            ```html
             <element class="myClass"></element>
             ```
 1. __Access HTML elements in JavaScript.__
