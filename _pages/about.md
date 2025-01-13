@@ -9,7 +9,7 @@ redirect_from:
 
 ## About me
 
-I am a PhD candidate at University of Technology Sydney.
+I am a junior economc researcher. I completed a PhD in Economics at the University of Technology Sydney in 2024.
 
 ## Research interests
 
@@ -18,4 +18,4 @@ I am a PhD candidate at University of Technology Sydney.
 
 ## Contact
 
-cong.tao@student.uts.edu.au
+cong.tao@uts.edu.au
