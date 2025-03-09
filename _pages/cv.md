@@ -46,6 +46,10 @@ redirect_from:
     - Game Theory
     - Business Statistics
 
+## Conferences
+- Xiamen Conference on Experimental Economics, 2024
+- Australian PhD Conference in Economics and Business, 2024
+
 <!--
 Talks
 ======
