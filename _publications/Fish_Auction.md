@@ -6,7 +6,7 @@ excerpt: "We study a remarkable  auction used in several fish markets around the
 date: 2025-04-03
 venue: "Working Paper R&R at Joural of Economic Theory"
 paperurl: "https://misaka-19090.github.io/files/Fish_Auction.pdf"
-citation: "Hafalir, I., Kesten, O., Sherstyuk, K., & Tao, C. (2023). When Speed is of Essence: Perishable Goods Auctions (No. 202310)."
+citation: "Hafalir, I., Kesten, O., Sherstyuk, K., & Tao, C. (2023). When speed is of essence: Perishable goods auctions. University of Hawai'i at Mānoa, Department of Economics."
 ---
 
 __Abstract:__ We study a remarkable auction used in several fish markets around the world, notably in Honolulu and Sydney, whereby high-quality fish are sold fast through a hybrid auction that combines the Dutch and the English formats in one auction. Speedy sales are of essence for these perishable goods. Our theoretical model incorporating &ldquo;time costs&rdquo; demonstrates that such Honolulu-Sydney auction is preferred by the auctioneer over the Dutch auction when there are few bidders or when bidders have high time costs. Our laboratory experiments confirm that with a small number of bidders, Honolulu-Sydney auctions are significantly faster than Dutch auctions. Bidders overbid in Dutch, benefiting the auctioneer, but bidding approaches risk-neutral predictions as time costs increase. Bidders fare better in the Honolulu-Sydney format compared to Dutch across all treatments. We further observe  bidder attempts to tacitly lower prices in Honolulu-Sydney auctions, substantiating existing concerns about pricing in some fish markets.
