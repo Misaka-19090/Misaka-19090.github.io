@@ -19,9 +19,9 @@ I am a microeconomic researcher. I obtained a PhD in Economics degree at the Uni
 ## Contact
 
 School of Economics
-Zhejiang University of Finance and Economics
-18 Xueyuan Street, Xiasha Higher Education Park
-Hangzhou, Zhejiang, China, 310018
+<br>Zhejiang University of Finance and Economics
+<br>18 Xueyuan Street, Xiasha Higher Education Park
+<br>Hangzhou, Zhejiang, China, 310018
 
 Office: Room 204B, Building 6
 Email: <a href="mailto:cong.tao@uts.edu.au">cong.tao@uts.edu.au</a>
