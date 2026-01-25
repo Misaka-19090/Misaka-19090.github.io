@@ -16,8 +16,13 @@ redirect_from:
 
 {% include base_path %}
 
+## Positions
+- __Research Fellow__`2026 - Current`
+  - Zhejiang University of Finance and Economics
+    - School of Economics
+
 ## Education
-- __University of Technology Sydney__ `2024 (expected)`
+- __University of Technology Sydney__ `2024`
   - Ph.D. in Economics
   - Supervisory Panel: Isa Hafalir (main), Luis Vasconcelos, Kentaro Tomoeda
 - __Shanghai Jiao Tong University__ `2019`
@@ -32,14 +37,14 @@ redirect_from:
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-## Work Experience
+## Other Work Experience
 - __Behavioural Lab Manager__`2023`
   - University of Technology Sydney
   - Duties include
     - oTree programming assistance
     - Qualtrics programming assistance
     - ORSEE server maintenance
-- __Teaching Assistance__`2020 - 2022`
+- __Teaching Assistance__`2020 - 2023`
   - University of Technology Sydney
   - Courses
     - Mathematics for Business and Economics
