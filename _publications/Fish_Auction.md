@@ -15,4 +15,4 @@ __Downloads:__
 - <i class="fa-solid fa-file-pdf icon-pad-right"></i>[Main Paper](https://misaka-19090.github.io/files/fish_auction_main.pdf)
 - <i class="fa-solid fa-file-pdf icon-pad-right"></i>[Online Appendix](https://misaka-19090.github.io/files/fish_auction_online_appendix.pdf)
 - <i class="fa-solid fa-file-pdf icon-pad-right"></i>[Experimental Materials](https://misaka-19090.github.io/files/fish_auction_experimental_materials.pdf)
-- <i class="fa-solid fa-github icon-pad-right"></i>[Project Repository](https://github.com/Misaka-19090/Honolulu-Sydney-Fish-Auction)
+- <i class="fab fa-fw fa-github icon-pad-right"></i>[Project Repository](https://github.com/Misaka-19090/Honolulu-Sydney-Fish-Auction)
