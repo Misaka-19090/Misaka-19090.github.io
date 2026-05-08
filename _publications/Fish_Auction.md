@@ -12,6 +12,7 @@ citation: "Hafalir, I., Kesten, O., Sherstyuk, K., & Tao, C. (2026). When speed 
 __Abstract:__ We study a remarkable auction used in several fish markets around the world, notably in Honolulu and Sydney, whereby high-quality fish are sold fast through a hybrid auction that combines the Dutch and the English formats in one auction. Speedy sales are of essence for these perishable goods. Our theoretical model incorporating &ldquo;time costs&rdquo; demonstrates that such Honolulu-Sydney auction is preferred by the auctioneer over the Dutch auction when there are few bidders or when bidders have high time costs. Our laboratory experiments confirm that with a small number of bidders, Honolulu-Sydney auctions are significantly faster than Dutch auctions. Bidders overbid in Dutch, benefiting the auctioneer, while the Honolulu-Sydney format benefits bidders more compared to Dutch across all treatments. We further observe bidder attempts to tacitly lower prices in Honolulu-Sydney auctions, substantiating existing concerns about pricing in some fish markets.
 
 __Downloads:__
+
 - <i class="fa-solid fa-file-pdf icon-pad-right"></i>[Main Paper](https://misaka-19090.github.io/files/fish_auction_main.pdf)
 - <i class="fa-solid fa-file-pdf icon-pad-right"></i>[Online Appendix](https://misaka-19090.github.io/files/fish_auction_online_appendix.pdf)
 - <i class="fa-solid fa-file-pdf icon-pad-right"></i>[Experimental Materials](https://misaka-19090.github.io/files/fish_auction_experimental_materials.pdf)
